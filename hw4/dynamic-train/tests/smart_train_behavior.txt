@@ -1,0 +1,1 @@
+We were not able to come up with a sequence that lost money with the smart train. The smart train will switch to a train that is half the size if the train is at a quarter capacity. This means that it won't remove and add packages between two trains as much, which is an action that is just a cost and not a revenue. 

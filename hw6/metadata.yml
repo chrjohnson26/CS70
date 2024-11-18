@@ -1,0 +1,14 @@
+---
+:id: 208621094
+:submitters:
+- :name: Maddie Reeve
+  :email: mareeve@hmc.edu
+- :name: Christian Johnson
+  :email: chrjohnson@hmc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-02 03:25:27.039243000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-01 20:25:27.039243000 Z
+:status: processed
+:score: 93.0

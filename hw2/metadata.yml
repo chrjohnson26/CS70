@@ -1,0 +1,14 @@
+---
+:id: 194242209
+:submitters:
+- :name: Sheridan Dorsey
+  :email: sdorsey@hmc.edu
+- :name: Christian Johnson
+  :email: chrjohnson@hmc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-09-18 21:16:24.486077000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-09-18 14:16:24.486077000 Z
+:status: processed
+:score: 74.5
